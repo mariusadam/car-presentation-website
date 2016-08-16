@@ -1,0 +1,67 @@
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {margin:0;font-size:13px;font-family:arial;color:#fff;background-image:url(../images/body-bg.jpg);background-repeat:repeat-x;background:#302f2a}
+.outer {width:943px;text-align:left;margin:0 auto}
+#outer2 {width:923px;text-align:left;background:#595758;margin:0 auto;border-bottom:5px solid #ffcc00}
+.gap {height:10px;font-size:1px}
+#logo-bg {width:320px;height:220px;float:left;padding-left:20px; background-image:url(../images/bmwlogo1.jpg);}
+#business {width:603px;height:220px;float:left;
+background-image:url(../images/logo1.jpg);background-repeat:no-repeat}
+h1 {font-size:20px;color:#fff;font-family:Geneva, Arial, Helvetica, sans-serif;text-align:center; padding-top:160px;letter-spacing:-1px}
+h2 {font-size:16px;font-weight:bold;color:#fff;padding-left:15px;height:35px;line-height:40px;display:inline}
+h3 {font-family:tahoma;color:#fff000;height:25px;line-height:25px;font-weight:bold;font-size:11px;padding-left:6px;padding-right:6px;background:#993300;display:table-cell}
+h4 {font-family:tahoma;color:#fff000;height:25px;line-height:25px;font-weight:bold;font-size:11px;padding-left:6px;padding-right:6px;background:#333}
+.tag {font-size:10px;text-transform:uppercase;color:#fff;padding-left:20px;padding-top:10px}
+#bg {width:923px;height:41px;background-image:url(../images/topbg.gif);background-repeat:repeat-x;margin:0 auto}
+#botbg {width:923px;height:41px;background-image:url(../images/topbg.gif);background-repeat:repeat-x;margin:0 auto}
+.toplinks {width:153px;text-align:center;float:left;height:38px;line-height:38px;font-family:tahoma;font-size:11px;text-transform:uppercase;font-weight:bold}
+.toplinks a {color:#000;text-decoration:none}
+.toplinks a:hover {color:#f00;text-decoration:none}
+.sap {width:1px;float:left;height:38px; font-family:tahoma;font-size:11px;line-height:38px;color:#000}
+#left-nav {width:220px;float:left;border-right:2px solid #222; margin-left:0}
+#content {width:700px;float:left}
+#content img {width:150px;border:2px solid #ccc;margin:10px;float:right}
+#content2 {width:700px;float:left}
+#content2 img {width:150px;border:2px solid #ccc;margin:10px;float:center}
+#content3 {width:700px;float:left}
+.stxt-bg {background:#433D40}
+.smaltext {font-family:tahoma;font-size:11px;text-align:justify;padding-left:6px;padding-right:6px}
+#left-nav img {width:150px;border:2px solid #ccc;margin:10px 5px 5px 15px;float:left}
+.read-more {font-family:tahoma;color:#e28210;font-weight:bold;font-size:11px;height:25px;line-heigsht:25px;padding-right:6px;float:right}
+.read-more a {color:#e28210;text-decoration:underline}
+.read-more a:hover {color:#fff;text-decoration:none}
+#showcase {width:200px;text-align:left;margin:10px auto}
+#main {text-align:justify;margin-left:5px; float:left} {text-decoration:none;color:#B8D731}
+#main {text-align:justify;font-size:12px}
+#footer {padding:11px}
+.footer {width:153px;text-align:center;float:left;height:38px;line-height:38px;font-family:tahoma;font-size:11px;text-transform:uppercase;font-weight:bold}
+.footer a {color:yellow;text-decoration:none;}
+.footer a:hover {color:#fff;text-decoration:none}
+a {color:#e28210;text-decoration:underline}
+a:hover {color:#A3C12D;text-decoration:none}
+.clear {clear:both}
+#footer {line-height:35px;text-align:center}
+#small_img{width:600px;height:100px;overflow:scroll;text-align:center;background-color:06AEFF;}  
+img {border:none;}
+#htable {height:25px;line-height:25px;padding-left:6px;padding-right:6px;margin-top:12px}
+table{					border:solid 1px #ccc; padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px; }
+td{						vertical-align:top; }
+th{						text-align:left; font-family:georgia; font-size:20px; }
+
+input{					margin-bottom:2px; border:solid 1px #ccc; font-size:15px; font-family:verdana;padding-left:5px;padding-top:7px;padding-bottom:7px;background-color:#FFFDF5;}
+input:focus{			background-color:white; }
+
+textarea{				background-color:#FFFDF5; margin-top:4px; border:solid 1px #ccc; font-size:15px; font-family:verdana; padding-left:5px; padding-right:5px;padding-top:7px;padding-bottom:7px;}
+textarea:focus{			background-color:white; }
+
+.buton{					margin-bottom:2px;background-color:orange;font-size:15px;font-family:verdana;padding-left:10px;padding-right:10px;padding-top:2px;padding-bottom:2px;border:solid 1px orange;color:white;}
+.buton:hover{			border:solid 1px #FFBF26;background-color:#FFBF26;}
+
+.label{					width:70px;font-family:georgia;font-size:12px;padding-top:10px;}
+
+hr{						border:solid 1px #ccc;}
+
+.notificare{			width:400px;color:#00AE00;font-size:16px;padding-left:20px;padding-right:20px;padding-top:10px;padding-bottom:10px;background-color:#ECFFEC;margin-bottom:10px;}
